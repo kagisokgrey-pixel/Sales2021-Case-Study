@@ -1,4 +1,4 @@
-# Sales Performance Dashboard — Case Study
+**FNB Case study(salescasestudy)**
 
 **Author:** Kagiso Matenchi
 
